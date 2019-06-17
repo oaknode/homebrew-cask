@@ -1,6 +1,6 @@
 cask 'oak-store' do
-  version '1.0.0-beta-rc3'
-  sha256 'e991398d3a87493c02cc6d6f6bf0229c0113464e0dfce2d5f40a958e0e173395'
+  version '1.0.0-beta-rc4'
+  sha256 '65bb353e764f382673cd2e7f4b88cb35cc2502c51915e9815651042d01aae40f'
 
   url "https://storage.googleapis.com/oak-releases/Oakstore-darwin-x64_#{version}.zip"
   name 'OAK Store'
