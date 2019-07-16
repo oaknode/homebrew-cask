@@ -1,10 +1,10 @@
 cask 'oak-store' do
-  version '1.0.0-beta-rc4'
-  sha256 '65bb353e764f382673cd2e7f4b88cb35cc2502c51915e9815651042d01aae40f'
+  version '0.1.0-beta'
+  sha256 '0bfe3487b2e62db7aa68f190d1c936c89202e5965f809f6d006f796207418b42'
 
-  url "https://metrics.oaknode.com/v1/Oakstore-darwin-x64_#{version}.zip"
+  url "https://metrics.oaknode.com/v1/oakstore_#{version}.dmg"
   name 'OAK Store'
   homepage 'https://oaknode.com'
 
-  app 'Oakstore-darwin-x64/Oakstore.app'
+  app 'Oakstore.app'
 end
