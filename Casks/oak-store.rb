@@ -6,5 +6,5 @@ cask 'oak-store' do
   name 'OAK Store'
   homepage 'https://oaknode.com'
 
-  app 'Oakstore.app'
+  app 'OAK Store.app'
 end
