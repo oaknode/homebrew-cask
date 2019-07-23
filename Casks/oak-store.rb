@@ -1,8 +1,8 @@
 cask 'oak-store' do
-  version '0.8.0'
-  sha256 '0764c1ed0b09a50743ad530c8cdd68ace06f4b36c030c4857b7ee274de894e40'
+  version '0.9.0'
+  sha256 'b9d95ccf259512801e1f022517303d68712e6e05a553d7813879f82ed954fede'
 
-  url "https://metrics.oaknode.com/v1/oakstore-#{version}.dmg"
+  url "https://metrics.oaknode.com/v1/oakstore_#{version}.dmg"
   name 'OAK Store'
   homepage 'https://oaknode.com'
 
