@@ -1,5 +1,5 @@
 cask 'oak-store' do
-  version '0.21.0'
+  version '0.22.1'
   sha256 '79e49422064a8e08b344b6e43cc84859ce9686899a0c9e9c18e39ac6532f79fd'
 
   url "https://metrics.oaknode.com/v1/oakstore-#{version}.dmg"
